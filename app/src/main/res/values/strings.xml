@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Fribby</string>
+    <string name="auth_error_message">Error</string>
+    <string name="login_error">Email is incorrect</string>
+    <string name="name_error" translatable="false">Name should be at list 2 signs</string>
+    <string name="password_error_same">Passwords should be the same</string>
+    <string name="password_error">Passwords is incorrect</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Password</string>
+    <string name="check_password">Check Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="home_text" translatable="false">Your application may be here</string>
+    <string name="profile_edit">Edit</string>
+    <string name="profile_interes">View Interes</string>
+    <string name="tab_text_1">Selected</string>
+    <string name="tab_text_2">Indoors</string>
+    <string name="tab_text_3">Outdoors</string>
+    <string name="tab_text_4">Academic</string>
+    <string name="profile">profile</string>
+    <string name="requests">requests</string>
+    <string name="home">home</string>
+    <string name="find">find</string>
+    <string name="change_interest">change interest</string>
+    <string name="find_friends">find friends</string>
+    <string name="logout">logout</string>
+    <string name="contact_removed">contact removed</string>
+    <string name="cancelChatRequest">cancel сhat request</string>
+    <string name="acceptChatRequest">accept сhat request</string>
+    <string name="sendChatRequest">send сhat request</string>
+    <string name="CompleteYourAccountDetails">Complete your account details</string>
+    <string name="Save">Save</string>
+    <string name="Meet_New_People">Meet New People Who Share Your Interests</string>
+    <string name="Find_friend">Find friend</string>
+    <string name="Select_your_interests">Select your interests</string>
+    <string name="req_sent">You have sent request to %1$s</string>
+    <string name="accept">accept</string>
+    <string name="decline">decline</string>
+    <string name="req_sent_button">req sent</string>
+    <string name="wants_connect">wants to connect with you</string>
+    <string name="cant_find_friend">Could not find a user with matching interest</string>
+    <string name="First_write_your_message">First write your message</string>
+    <string name="Message_Sent_Successfully">Message Sent Successfully</string>
+</resources>

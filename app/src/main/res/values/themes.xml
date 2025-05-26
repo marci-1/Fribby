@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PasswordApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/color_cool_blue</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="colorOnBackground">@color/black</item>
+        <item name="popupMenuStyle">@style/CustomPopupMenu</item>
+    </style>
+
+    <style name="Theme.PasswordApp" parent="Base.Theme.PasswordApp" />
+</resources>

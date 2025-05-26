@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fribby</string>
+    <string name="password">Пароль</string>
+    <string name="check_password">Проверить пароль</string>
+    <string name="sign_in">Логин</string>
+    <string name="password_error">Пароль не корректен</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="auth_error_message">Ошибка</string>
+    <string name="login_error">Неверная почта</string>
+    <string name="password_error_same">Пароли не совпадают</string>
+    <string name="profile_edit">Изменить</string>
+    <string name="profile_interes">Интересы</string>
+    <string name="tab_text_1">Выбраные</string>
+    <string name="tab_text_2">В помещение</string>
+    <string name="tab_text_3">На улице</string>
+    <string name="tab_text_4">Учебные</string>
+    <string name="home">чаты</string>
+    <string name="find">поиск</string>
+    <string name="profile">профиль</string>
+    <string name="requests">запросы</string>
+    <string name="change_interest">изменить интересы</string>
+    <string name="find_friends">искать друзей</string>
+    <string name="logout">выйти</string>
+    <string name="contact_removed">Пользователь удалён из контактов</string>
+    <string name="cancelChatRequest">отменён запрос</string>
+    <string name="acceptChatRequest">принят запрос</string>
+    <string name="sendChatRequest">отправлен запрос</string>
+    <string name="CompleteYourAccountDetails">Заполните данные аккаунта</string>
+    <string name="Save">Сохранить</string>
+    <string name="Meet_New_People">Встретить новых людей со схожими интересами</string>
+    <string name="Find_friend">Найти друзей</string>
+    <string name="Select_your_interests">Выберите интересы</string>
+    <string name="req_sent">Вы отправили запрос %1$s</string>
+    <string name="accept">принять</string>
+    <string name="decline">отклонить</string>
+    <string name="req_sent_button">отправлен</string>
+    <string name="wants_connect">хочет пообщаться с вами</string>
+    <string name="cant_find_friend">Не удалось найти пользователя с совпадающим интересом</string>
+    <string name="First_write_your_message">Напишите сообщение</string>
+    <string name="Message_Sent_Successfully">Сообщение успешно отправлено</string>
+</resources>
