@@ -1,0 +1,11 @@
+# Временные файлы и папки
+.tmp/
+caches/
+daemon/
+build/
+.gradle/
+*.log
+
+# Файлы IDE
+.idea/
+*.iml
